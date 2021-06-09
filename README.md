@@ -1,6 +1,6 @@
-# Wordpress
+# WordPress
 
-This page made with HTML, CSS and adding normalize.min.css.
+This page was made with HTML, CSS and using normalize.min.css.
 
 ![Screen1](/img/WordpressScreen1.png)
 ![Screen2](/img/WordpressScreen2.png)
